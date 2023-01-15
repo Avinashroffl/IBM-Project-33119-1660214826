@@ -90,7 +90,7 @@ As per this project we will be analyzing some important visualization, creating 
 <br>
 
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<img src="https://raw.githubusercontent.com/IBM-EPBL/IBM-Project-33119-1660214826/main/footer.svg" width="100%">
 
 <div align="center">
  <h5> Made with <picture>
